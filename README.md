@@ -1,1 +1,1 @@
-# Mein erstes Projekt
+# Cooler Typ und verdammt guter Programmierer
