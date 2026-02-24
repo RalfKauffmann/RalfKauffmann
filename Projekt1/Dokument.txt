@@ -9,3 +9,4 @@ Wichtige Änderung. Für alle Branches!
 Es gab eine neue Änderung.
 
 Änderung Main 1 
+Änderung Main Squash 1
